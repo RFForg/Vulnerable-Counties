@@ -1,0 +1,33 @@
+[
+    {
+        "code": "us-al-001",
+        "name": "Autauga County, AL",
+	"fips": "01001",
+        "coa": 35218,
+	"ecd": 2
+    },
+    {
+        "code": "us-al-003",
+        "name": "Baldwin County, AL",
+	"fips": "01003",
+        "value": 4.3,
+        "coa": 58318,
+	"ecd": 3
+    },
+    {
+        "code": "us-al-005",
+        "name": "Barbour County, AL",
+	"fips": "01005",
+        "value": 5.6,
+        "coa": 8218,
+	"ecd": 1
+    },
+    {
+        "code": "us-al-007",
+        "name": "Bibb County, AL",
+	"fips": "01007",
+        "value": 4.2,
+        "coa": 618,
+	"ecd": 4
+    }
+]
